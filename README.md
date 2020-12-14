@@ -1,7 +1,9 @@
 # Artist-prediction-from-images
-# AUTHORS: VASHATKAR ASURI KRISHNA SRINIVASA
+# AUTHORS: 
+           VASHATKAR ASURI KRISHNA SRINIVASA
            SAI NAGA CHANDRA VIVEK GARIMELLA
-# CONTENTS: ARTIST PREDICTION USING RGB SCALE -> artist_prediction_RGB.ipynb
+# CONTENTS:
+            ARTIST PREDICTION USING RGB SCALE -> artist_prediction_RGB.ipynb
             ARTIST PREDICTION USING GRAY SCALE -> artist_prediction_graysale.ipynb
 Artist identification is traditionally performed by art historians and curators who have expertise and familiarity with different artists and styles of
 art. This is a complex and interesting problem for computers because identifying an artist does not just require object or face detection. Artists can paint a
