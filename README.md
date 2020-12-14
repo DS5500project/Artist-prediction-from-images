@@ -5,6 +5,7 @@
 # CONTENTS:
             ARTIST PREDICTION USING RGB SCALE -> artist_prediction_RGB.ipynb
             ARTIST PREDICTION USING GRAY SCALE -> artist_prediction_graysale.ipynb
+# OBJECTIVE:
 Artist identification is traditionally performed by art historians and curators who have expertise and familiarity with different artists and styles of
 art. This is a complex and interesting problem for computers because identifying an artist does not just require object or face detection. Artists can paint a
 wide variety of objects and scenes, but they have vastly different styles and content. Occasionally many artists from the same time period will have
